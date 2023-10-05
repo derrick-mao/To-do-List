@@ -25,16 +25,16 @@
        </widget>
       </item>
       <item>
-       <widget class="QPushButton" name="editButton">
+       <widget class="QPushButton" name="completeButton">
         <property name="text">
-         <string>Edit</string>
+         <string>Complete</string>
         </property>
        </widget>
       </item>
       <item>
-       <widget class="QPushButton" name="completeButton">
+       <widget class="QPushButton" name="editButton">
         <property name="text">
-         <string>Complete</string>
+         <string>Edit</string>
         </property>
        </widget>
       </item>
@@ -76,6 +76,20 @@
         </property>
        </widget>
       </item>
+      <item row="2" column="1">
+       <widget class="QDateEdit" name="dueDateInput">
+        <property name="calendarPopup">
+         <bool>true</bool>
+        </property>
+        <property name="date">
+         <date>
+          <year>2023</year>
+          <month>8</month>
+          <day>1</day>
+         </date>
+        </property>
+       </widget>
+      </item>
       <item row="3" column="0">
        <widget class="QLabel" name="priorityLabel">
         <property name="text">
@@ -102,26 +116,12 @@
         </item>
        </widget>
       </item>
-      <item row="2" column="1">
-       <widget class="QDateEdit" name="dueDateInput">
-        <property name="calendarPopup">
-         <bool>true</bool>
-        </property>
-        <property name="date">
-         <date>
-          <year>2023</year>
-          <month>8</month>
-          <day>1</day>
-         </date>
-        </property>
-       </widget>
-      </item>
      </layout>
     </item>
     <item row="1" column="0">
      <widget class="QTabWidget" name="tabList">
       <property name="currentIndex">
-       <number>0</number>
+       <number>2</number>
       </property>
       <widget class="QWidget" name="tab_today">
        <attribute name="title">
@@ -130,9 +130,6 @@
        <layout class="QVBoxLayout" name="verticalLayout_3">
         <item>
          <widget class="QListWidget" name="todayList">
-          <property name="alternatingRowColors">
-           <bool>true</bool>
-          </property>
           <property name="sortingEnabled">
            <bool>false</bool>
           </property>
@@ -149,6 +146,21 @@
          <widget class="QListWidget" name="upcomingList"/>
         </item>
        </layout>
+      </widget>
+      <widget class="QWidget" name="tab_Priority">
+       <attribute name="title">
+        <string>Priority</string>
+       </attribute>
+       <widget class="QListWidget" name="priorityList">
+        <property name="geometry">
+         <rect>
+          <x>10</x>
+          <y>10</y>
+          <width>497</width>
+          <height>357</height>
+         </rect>
+        </property>
+       </widget>
       </widget>
       <widget class="QWidget" name="tab_completed">
        <attribute name="title">
