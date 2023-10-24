@@ -19,15 +19,18 @@ public:
 private slots:
     // ignore these error messages, only for high level apps
     void on_addButton_clicked();
-    void on_deleteButton_clicked();
-    void on_editButton_clicked();
     void on_completeButton_clicked();
+    void on_editButton_clicked();
+    void on_deleteButton_clicked();
 
 private:
     Ui::MainWindow *ui;
+
     TaskList todaysTasks;
     TaskList upcomingTasks;
+    TaskList priorityTasks;
     TaskList completedTasks;
+
     int determineTab() const;
 };
 #endif // MAINWINDOW_H
