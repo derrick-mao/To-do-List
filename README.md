@@ -2,7 +2,7 @@
 An application designed to help you organize and manage your tasks efficiently, Keeps track of tasks, being able to delete, mark as done, and add new tasks.
 The goal is to create a working GUI application, using QT, to create an easy, understandeable, and systematic program that takes care of each and every task.
  
-Authors: [Wasim Khan](https://github.com/WasimKhan034), [Derrick Mao](https://github.com/Derrick-Mao), [Benson Lee](https://github.com/roomba-s9), [Ethan Tran](https://github.com/stutterk1d)
+Authors: [Derrick Mao](https://github.com/Derrick-Mao), [Wasim Khan](https://github.com/WasimKhan034), [Benson Lee](https://github.com/roomba-s9), [Ethan Tran](https://github.com/stutterk1d)
 
 ## Project Description
 ### Why?
