@@ -151,16 +151,11 @@
        <attribute name="title">
         <string>Priority</string>
        </attribute>
-       <widget class="QListWidget" name="priorityList">
-        <property name="geometry">
-         <rect>
-          <x>10</x>
-          <y>10</y>
-          <width>497</width>
-          <height>357</height>
-         </rect>
-        </property>
-       </widget>
+       <layout class="QVBoxLayout" name="verticalLayout_2">
+        <item>
+         <widget class="QListWidget" name="priorityList"/>
+        </item>
+       </layout>
       </widget>
       <widget class="QWidget" name="tab_completed">
        <attribute name="title">
