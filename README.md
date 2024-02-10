@@ -81,7 +81,7 @@ Contains all buttons, an empty interface without tests(included below).
  ## Testing
  A [link](https://docs.google.com/document/d/1xxnJyCJz1eDI3-EXb4G7AvZ5np_LuSaxOAiUBP3dAu0/edit) to a document that shows how we used the built-in QT Creator GDB debugger to test our code.
  
-
+<!--
  ## Installation/Usage
  Download the ZIP file of our repository, and you will see that there is a "build" folder. Open that folder and run todoApp.exe and the application should run perfectly!
- 
+ --->
