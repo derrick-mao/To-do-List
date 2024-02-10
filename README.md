@@ -36,7 +36,8 @@ Contains all buttons, an empty interface without tests(included below).
 
 
 
-![layout](https://github.com/Derrick-Mao/To-do-List/assets/132052322/5dbd927f-900b-420a-b06c-9a0bf5afb8b3)
+![layout](https://github.com/Derrick-Mao/To-do-List/assets/132052322/0b6ee5f1-f86c-4eb0-ad76-5af2cf489261)
+
 
 
 ## Class Diagram
