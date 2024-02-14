@@ -49,7 +49,7 @@ Contains all buttons, an empty interface without tests(included below).
  
  * Add
    
- ![add](https://github.com/Derrick-Mao/To-do-List/assets/132052322/7ac53621-4cb0-495c-b546-6bf8f40064eb)
+ ![add](https://github.com/Derrick-Mao/To-do-List/assets/132052322/4bdbf77a-aef1-4fd0-aabe-2ec12ecff3fc)
 
  * Edit
 
