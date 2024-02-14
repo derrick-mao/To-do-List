@@ -45,37 +45,23 @@ Contains all buttons, an empty interface without tests(included below).
 
 
  
- ## Screenshots
+ ## Functions Showcase
  
- * Pressing add with no task
- 
- 
- ![add](https://github.com/cs100/final-project-poopoopeepee/assets/134977057/aca5ea05-d8e7-4a41-9a53-c2b8ee59671f)
+ * Add
+   
+ ![add](https://github.com/Derrick-Mao/To-do-List/assets/132052322/7ac53621-4cb0-495c-b546-6bf8f40064eb)
 
+ * Edit
 
- * Succesfully adding a task
+ ![edit](https://github.com/Derrick-Mao/To-do-List/assets/132052322/08cc8627-0d9d-4a5b-8f1a-a4d1255f9bf7)
 
- 
- ![addPass](https://github.com/cs100/final-project-poopoopeepee/assets/134977057/04931192-bf59-4965-88eb-45af1cc36352)
+ * Complete
 
+ ![complete](https://github.com/Derrick-Mao/To-do-List/assets/132052322/1f6d597f-4a08-4bde-914d-5b109718bbf1)
 
- * Complete successful
+ * Delete
 
-
- ![complete](https://github.com/cs100/final-project-poopoopeepee/assets/134977057/1be9dfe2-ef6a-4166-b4c3-b8cce9795278)
-
-
- * Deleting a task test
-
-
- ![delete](https://github.com/cs100/final-project-poopoopeepee/assets/134977057/c86df24b-0ce6-425b-a55a-9a39c0c3298a)
-
-
- * Editing a task
-
- ![edit1](https://github.com/cs100/final-project-poopoopeepee/assets/134977057/86ff075b-d50f-4915-bf19-0ae749e46641)
-
- ![edit2](https://github.com/cs100/final-project-poopoopeepee/assets/134977057/432ff386-adfd-477a-9622-ea50f573a311)
+ ![delete](https://github.com/Derrick-Mao/To-do-List/assets/132052322/f6690f93-14f3-4f90-9693-5ca83b4b8911)
 
 
  ## Testing
