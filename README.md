@@ -22,9 +22,9 @@ Input:
 * User actions (add, delete, mark as complete, edit)
 
 Output:
-* List of tasks for current day and upcoming days
+* List of tasks due for current day and upcoming days
+* List of tasks ordered from high to low priority
 * List of completed tasks
-* Feedback messages after actions (e.g., "Task added successfully!")
 
   
 ### Features
