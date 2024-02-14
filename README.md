@@ -7,7 +7,7 @@ Authors: [Derrick Mao](https://github.com/Derrick-Mao), [Wasim Khan](https://git
 
 ## Project Description
 ### Why?
-* Task management is a universal requirement.  Everyone, from students to professionals rely on task management to organize thier day to day life and achieve productivity.  We aim to create an application that   retains the use of a basic to-do list while introducing features that modern users desire, enabling them to manage thier tasks more effectively and intuitively.
+* Task management is a universal requirement.  Everyone, from students to professionals rely on task management to organize thier day to day life and achieve productivity.  We aim to create an application that   retains the use of a basic to-do list while introducing features that modern users desire, enabling them to manage their tasks more effectively and intuitively.
 
   
 ### Tools to use
