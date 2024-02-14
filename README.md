@@ -34,11 +34,17 @@ Output:
 * Mark as Complete: Allows users to track their progress.
 * Edit Tasks: Users can modify task details.
 
-
+<!--
 ### Navigation Diagram
 
 ![UML diagram](https://github.com/cs100/final-project-poopoopeepee/assets/134977057/0cdeb751-05ea-45df-98b3-44adaa42d478)
 
+
+## Class Diagram
+![class diagram](https://github.com/cs100/final-project-poopoopeepee/assets/134977057/f85afe56-c0d9-43c9-99cc-f3d193b18f41)
+
+ 
+-->
 
 ### Screen Layout
 Empty interface with the input field, the list tabs, and function buttons.
@@ -46,10 +52,6 @@ Empty interface with the input field, the list tabs, and function buttons.
 ![todoapp](https://github.com/Derrick-Mao/To-do-List/assets/132052322/fbf027f6-6684-4ae6-ae29-b68ae5e7f58c)
 
 
-## Class Diagram
-![class diagram](https://github.com/cs100/final-project-poopoopeepee/assets/134977057/f85afe56-c0d9-43c9-99cc-f3d193b18f41)
-
- 
  ## Functions Showcase
  
  * Add
