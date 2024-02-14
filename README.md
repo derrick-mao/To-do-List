@@ -47,7 +47,7 @@ Output:
 -->
 
 ### Screen Layout
-Empty interface with the input field, the list tabs, and function buttons.
+Empty interface with the input field, the list tabs, and the function buttons.
 
 ![todoapp](https://github.com/Derrick-Mao/To-do-List/assets/132052322/fbf027f6-6684-4ae6-ae29-b68ae5e7f58c)
 
