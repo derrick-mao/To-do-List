@@ -4,13 +4,18 @@ The goal is to create a working GUI application, using QT, to create an easy, un
  
 Authors: [Derrick Mao](https://github.com/Derrick-Mao), [Wasim Khan](https://github.com/WasimKhan034), [Benson Lee](https://github.com/roomba-s9), [Ethan Tran](https://github.com/stutterk1d)
 
+
 ## Project Description
 ### Why?
 * Task management is a universal requirement.  Everyone, from students to professionals rely on task management to organize thier day to day life and achieve productivity.  We aim to create an application that   retains the use of a basic to-do list while introducing features that modern users desire, enabling them to manage thier tasks more effectively and intuitively.
+
+  
 ### Tools to use
 * Languages: C++
 * Tools: GitHub (for version control and collaboration), QT (software used to develop GUIs)
 * Technologies/Frameworks: QT framework to create an interface that displays the task manager
+
+  
 ### Inputs and Outputs
 Input:
 * Task details (title, description, priority, due date)
@@ -20,6 +25,8 @@ Output:
 * List of tasks for current day and upcoming days
 * List of completed tasks
 * Feedback messages after actions (e.g., "Task added successfully!")
+
+  
 ### Features
 
 * Add Tasks: With fields for title, due date, priority, notes, and categories/tags.
@@ -27,22 +34,20 @@ Output:
 * Mark as Complete: Allows users to track their progress.
 * Edit Tasks: Users can modify task details.
 
+
 ### Navigation Diagram
+
 ![UML diagram](https://github.com/cs100/final-project-poopoopeepee/assets/134977057/0cdeb751-05ea-45df-98b3-44adaa42d478)
 
 
-### Screen Layouts
-Contains all buttons, an empty interface without tests(included below).
+### Screen Layout
+Empty interface with the input field, the list tabs, and function buttons.
 
-
-
-![layout](https://github.com/Derrick-Mao/To-do-List/assets/132052322/0b6ee5f1-f86c-4eb0-ad76-5af2cf489261)
-
+![todoapp](https://github.com/Derrick-Mao/To-do-List/assets/132052322/fbf027f6-6684-4ae6-ae29-b68ae5e7f58c)
 
 
 ## Class Diagram
 ![class diagram](https://github.com/cs100/final-project-poopoopeepee/assets/134977057/f85afe56-c0d9-43c9-99cc-f3d193b18f41)
-
 
  
  ## Functions Showcase
